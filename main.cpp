@@ -1,4 +1,6 @@
 // This program is just an example one under VCS.
+// Author: zhou yqai
+// Year: 2026
 #include <iostream>
 using namespace std;
 
